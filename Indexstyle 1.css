@@ -1,0 +1,78 @@
+
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+    
+}
+body {
+    height: 83vh;
+    margin: 0;
+    padding: 15% 5%;
+    background-color: #938785 !important;
+
+    
+}
+.card{
+    background-color: #06f3cc !important;
+    width:500px;
+    margin:auto;
+    border-radius:15px;
+    
+}
+.btn-primary {
+    color: #7B7D7D ;
+    background-color: #394e71 !important;
+    border-color: #394e71 !important;
+    border-radius:50px;
+   
+}
+.btn-primary:hover{
+background-color: #89B0CB;
+}
+
+.form-control{
+    background-color: #f8f9fadb;
+}
+  
+.container{
+    margin: 5% 0%;
+}
+.mainsection{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.sub1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.sub2{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.title {
+    margin: 2% 0 2% 1%;
+    width: 100%;
+    height: 10%;
+}
+.title-text {
+    width: 60%;
+}
+
+.big-text {
+    font-size: 50px;
+    color: #eefe07;
+    margin-bottom: 2%;
+}
+.emoji{
+  align: center;
+}

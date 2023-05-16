@@ -1,0 +1,6 @@
+pandas
+tweepy
+textblob
+flask
+matplotlib
+numpy
